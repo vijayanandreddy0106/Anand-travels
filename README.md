@@ -1,4 +1,4 @@
-# Anand-travels
+
 # Anand Travels Website
 
 ## 🌍 Project Overview
@@ -16,7 +16,7 @@ Anand Travels is a responsive travel website created using HTML, CSS, and JavaSc
 
 ## 🛠 Technologies Used
 - HTML5
-- CSS3
+- CSS
 - JavaScript
 
 ## 📂 Project Structure
